@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br /> Install C++ Redistributable
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/S0jZjFG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
